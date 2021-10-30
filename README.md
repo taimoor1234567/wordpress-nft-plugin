@@ -49,3 +49,4 @@ Auction will run for Days/Hours/Minutes you've set. Countdown commences upon fir
 **PLEASE NOTE:** You will also need to Connect from the front end and *Approve* the auction (and confirm transaction) as it's a requirement of the ZORA Auction House contract. This is intended to be done by the nominated Curator, or alternatively by the Artist or Collector you are selling on behalf of. If you are the only involved party, you can Approve from a different wallet address.
 
 For more information, please visit the [ZORA documentation](https://docs.zora.co).
+for 
